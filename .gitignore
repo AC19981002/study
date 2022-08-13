@@ -1,6 +1,5 @@
 # Project exclude paths
 /cmake-build-debug/
-/out/
-/.vscode/
+out/
 *.exe
-/lib/
+lib/
